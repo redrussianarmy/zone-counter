@@ -1,8 +1,5 @@
 #pragma once
 
-// Interface improvement: GetSize(), IsBorder(), Show() set to const
-// Because no implementation should ever mutate the object through these methods.
-
 class MapInterface {
 public:
     virtual ~MapInterface() {}
