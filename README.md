@@ -6,4 +6,4 @@ A program was written that counts the geographical regions on a given 2D map usi
 
 Qt Creator was used to develop the program.
 
-This program was developed by the developer for self-development. It is not developed for commercial use.
+This program was developed by the developer for self-development.
